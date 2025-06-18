@@ -58,5 +58,5 @@ For questions, clarification, or collaboration:
 
 ## 🔒 Access
 
-This repository is currently private during peer review.  
-Access may be granted upon request or will be made public upon article acceptance.
+This repository is currently public during the journal review process.  
+Access may be restricted if needed
